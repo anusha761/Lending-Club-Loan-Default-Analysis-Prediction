@@ -55,40 +55,29 @@ Although weak indicators, following patterns are observed:
 
 Selected Model
 
-XGBoost : {'max_depth': 2, 'min_child_weight': 10, 'reg_alpha': 50}
+- XGBoost : {'max_depth': 2, 'min_child_weight': 10, 'reg_alpha': 50}
+
+- Train Accuracy: 0.9621852823952561
+- Test Accuracy: 0.9569725246241576
 
 Train Metrics
 
-Accuracy: 0.9621852823952561
-
-Precision: 0.8660
-
-Recall (Sensitivity): 0.8784
-
-F1 Score: 0.8721656260269471
-
-Specificity: 0.9766
-
-AUC: 0.9849
+- Accuracy: 0.9621852823952561
+- Precision: 0.8660
+- Recall (Sensitivity): 0.8784
+- F1 Score: 0.8721656260269471
+- Specificity: 0.9766
+- AUC: 0.9849
 
 
 Test Metrics
 
-Accuracy: 0.9569725246241576
-
-Precision: 0.8428
-
-Recall (Sensitivity): 0.8566
-
-F1 Score: 0.8496376811594204
-
-Specificity: 0.9736
-
-AUC: 0.9798
-
-
-
-
+- Accuracy: 0.9569725246241576
+- Precision: 0.8428
+- Recall (Sensitivity): 0.8566
+- F1 Score: 0.8496376811594204
+- Specificity: 0.9736
+- AUC: 0.9798
 
 
 ## Technologies Used
