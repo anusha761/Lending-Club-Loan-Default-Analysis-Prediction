@@ -58,7 +58,9 @@ Selected Model
 - XGBoost : {'max_depth': 2, 'min_child_weight': 10, 'reg_alpha': 50}
 
 - Train Accuracy: 0.9621852823952561
+- Train AUC: 0.9849
 - Test Accuracy: 0.9569725246241576
+- Test AUC: 0.9798
 
 Train Metrics
 
